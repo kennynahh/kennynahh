@@ -1,3 +1,3 @@
 ### Hi! 👋
 
-I'm Kenny. I'm working with a few other engineering students to build UW Reality Labs, a new design team at the University of Waterloo focused on everything XR - from computational displays to spatial UI design. You can find the organization's repositories in my pinned section.
+I'm Kenny. I'm a Systems Design Engineering student at the University of Waterloo that likes to build UAV and VR hardware. I have involvements at Waterloo Aerial Robotics Group and Waterloo Reality Labs, and you can find some of my work in my pinned section.
